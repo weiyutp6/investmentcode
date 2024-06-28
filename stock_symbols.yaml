@@ -1,0 +1,115 @@
+stocks:
+  - symbol: SPY
+    name: SPDR S&P 500 ETF
+  - symbol: DE
+    name: John Deere & Co
+  - symbol: TRMB
+    name: Trimble
+  - symbol: EQNR
+    name: Equinor
+  - symbol: SHEL
+    name: Shell
+  - symbol: BP
+    name: British Petroleum
+  - symbol: OXY
+    name: Occidental Petroleum
+  - symbol: NVDA
+    name: Nvidia
+  - symbol: GOOGL
+    name: Alphabet Class A
+  - symbol: UBER
+    name: Uber
+  - symbol: RKUNY
+    name: Rakuten Group
+  - symbol: TSM
+    name: TSMC
+  - symbol: AMZN
+    name: Amazon
+  - symbol: AMD
+    name: AMD
+  - symbol: AAPL
+    name: Apple
+  - symbol: MSFT
+    name: Microsoft
+  - symbol: ADI
+    name: Analog Devices
+  - symbol: PATH
+    name: UiPath
+  - symbol: DNNGY
+    name: Orsted
+  - symbol: SIEGY
+    name: Siemens
+  - symbol: GLIN
+    name: VanEck India Growth Leaders ETF
+  - symbol: TM
+    name: Toyota
+  - symbol: LCID
+    name: Lucid
+  - symbol: TSLA
+    name: Tesla
+  - symbol: NKE
+    name: Nike
+  - symbol: V
+    name: VISA
+  - symbol: MA
+    name: Mastercard
+  - symbol: AXP
+    name: American Express
+  - symbol: BAC
+    name: Bank of America
+  - symbol: TD
+    name: TD Bank
+  - symbol: LOW
+    name: Lowe's
+  - symbol: HD
+    name: Home Depot
+  - symbol: BA
+    name: Boeing
+  - symbol: EADSY
+    name: Airbus
+  - symbol: UPS
+    name: UPS
+  - symbol: FDX
+    name: FedEx
+  - symbol: NFLX
+    name: Netflix
+  - symbol: DIS
+    name: Disney
+  - symbol: IAU
+    name: Ishares Gold Trust
+  - symbol: TLT
+    name: Ishares 20+Treasury ETF
+  - symbol: VCLT
+    name: Vanguard Long Corporate Bond ETF
+  - symbol: FXY
+    name: Invesco Japanese Yen Trust
+  - symbol: SAM
+    name: Boston Beer
+  - symbol: BXP
+    name: Boston Properties
+  - symbol: IYR
+    name: IShares Dow Jones Real Estate ETF
+  - symbol: DD
+    name: Dupont
+  - symbol: PG
+    name: P&G
+  - symbol: WMT
+    name: Walmart
+  - symbol: TGT
+    name: Target
+  - symbol: CVS
+    name: CVS
+  - symbol: HSY
+    name: Hershey
+  - symbol: KO
+    name: Coca-Cola
+  - symbol: RTX
+    name: RTX
+  - symbol: SWBI
+    name: Smith & Wesson Brands
+  - symbol: RGR
+    name: Ruger Firearms
+  - symbol: NOC
+    name: Northrop Grumman
+  - symbol: LMT
+    name: Lockheed Martin

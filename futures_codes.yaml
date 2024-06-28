@@ -1,0 +1,55 @@
+futures_codes:
+  commodities:
+    - name: Crude Oil (WTI)
+      code: CHRIS/CME_CL1
+    - name: Natural Gas
+      code: CHRIS/CME_NG1
+    - name: Gold
+      code: CHRIS/CME_GC1
+    - name: Silver
+      code: CHRIS/CME_SI1
+    - name: Corn
+      code: CHRIS/CME_C1
+    - name: Soybeans
+      code: CHRIS/CME_S1
+    - name: Wheat
+      code: CHRIS/CME_W1
+    - name: Copper
+      code: CHRIS/CME_HG1
+  indices:
+    - name: S&P 500 Index
+      code: CHRIS/CME_ES1
+    - name: NASDAQ-100 Index
+      code: CHRIS/CME_NQ1
+    - name: Dow Jones Industrial Average
+      code: CHRIS/CME_YM1
+    - name: Russell 2000 Index
+      code: CHRIS/CME_TF1
+  currencies:
+    - name: Euro
+      code: CHRIS/CME_EC1
+    - name: British Pound
+      code: CHRIS/CME_BP1
+    - name: Japanese Yen
+      code: CHRIS/CME_JY1
+    - name: Canadian Dollar
+      code: CHRIS/CME_CD1
+    - name: Swiss Franc
+      code: CHRIS/CME_SF1
+  metals:
+    - name: Platinum
+      code: CHRIS/CME_PL1
+    - name: Palladium
+      code: CHRIS/CME_PA1
+  energy:
+    - name: Brent Crude Oil
+      code: CHRIS/ICE_B1
+  agricultural:
+    - name: Coffee
+      code: CHRIS/ICE_KC1
+    - name: Sugar
+      code: CHRIS/ICE_SB1
+    - name: Cotton
+      code: CHRIS/ICE_CT1
+    - name: Orange Juice
+      code: CHRIS/ICE_OJ1
