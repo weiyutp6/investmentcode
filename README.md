@@ -1,5 +1,6 @@
 # investmentcode
 fetch market data for stocks, options, futures, currencies, bonds
+todo add code for options scoring and IV based strategies
 
 ## prerequisites
 ```bash
